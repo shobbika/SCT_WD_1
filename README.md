@@ -29,13 +29,33 @@ git clone https://github.com/shobbika/SCT_WD_1.git
 3. (Recommended) Use Live Server in VS Code for live preview
 
 ## 📂 Folder Structure
-/images       ← Images for galaxies, stars, black holes
-index.html    ← Main HTML file
-style.css     ← Styling
-script.js     ← JavaScript interactions
-optional.json ← Optional configuration/data file
+-images       ← Images for galaxies, stars, black holes
+-index.html    ← Main HTML file
+-style.css     ← Styling
+-script.js     ← JavaScript interactions
+-optional.json ← Optional configuration/data file📷📷
 
-⚡ Future Enhancements
+## 📷 Demo Pictures
+
+-Home
+
+<img width="1869" height="1000" alt="Screenshot 2026-01-02 182428" src="https://github.com/user-attachments/assets/fe987fc6-28a8-4e4f-8922-6d6d7a555bb5" />
+
+-Galaxies
+
+<img width="1878" height="1002" alt="Screenshot 2026-01-02 182441" src="https://github.com/user-attachments/assets/a94f1c97-50be-4b74-a2b9-bf7aef72e74c" />
+
+
+-Stars
+
+<img width="1888" height="1005" alt="Screenshot 2026-01-02 182459" src="https://github.com/user-attachments/assets/35832820-6ad1-4e86-aa04-b3a9df163b54" />
+
+-Black Holes
+
+<img width="1872" height="998" alt="Screenshot 2026-01-02 182523" src="https://github.com/user-attachments/assets/9f986c39-b96e-4bd2-bb41-926732686a3d" />
+
+
+## ⚡ Future Enhancements
 
 - Add more celestial objects with *dynamic content* loading
 
