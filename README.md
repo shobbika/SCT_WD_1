@@ -22,9 +22,9 @@ Or run locally to explore the universe in your browser.
 - Google Fonts: *Orbitron*
 
 ## 💻 How to Run Locally
-1. Clone the repository:
-```bash
-git clone https://github.com/shbbika/SCT_WD_1.git
+1. Clone the repository: ```bash
+
+git clone https://github.com/shobbika/SCT_WD_1.git
 2. Open index.html in a web browser
 3. (Recommended) Use Live Server in VS Code for live preview
 
