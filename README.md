@@ -43,12 +43,13 @@ git clone https://github.com/shobbika/SCT_WD_1.git
 
 - Galaxies
 
-<img width="1878" height="1002" alt="Screenshot 2026-01-02 182441" src="https://github.com/user-attachments/assets/a94f1c97-50be-4b74-a2b9-bf7aef72e74c" />
+<img width="1879" height="995" alt="Screenshot 2026-01-02 183305" src="https://github.com/user-attachments/assets/f5634235-8a60-4567-92bc-64c2d6fa35d8" />
 
 
 - Stars
 
-<img width="1888" height="1005" alt="Screenshot 2026-01-02 182459" src="https://github.com/user-attachments/assets/35832820-6ad1-4e86-aa04-b3a9df163b54" />
+<img width="1879" height="1003" alt="Screenshot 2026-01-02 183323" src="https://github.com/user-attachments/assets/1055e3da-15af-4e6e-ba22-e94b02087c0d" />
+
 
 - Black Holes
 
