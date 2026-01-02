@@ -21,4 +21,29 @@ Or run locally to explore the universe in your browser.
 - Optional JSON file for configuration/data  
 - Google Fonts: *Orbitron*
 
+## 💻 How to Run Locally
+1. Clone the repository:
+```bash
+git clone https://github.com/shbbika/SCT_WD_1.git
+2. Open index.html in a web browser
+3. (Recommended) Use Live Server in VS Code for live preview
 
+## 📂 Folder Structure
+/images       ← Images for galaxies, stars, black holes
+index.html    ← Main HTML file
+style.css     ← Styling
+script.js     ← JavaScript interactions
+optional.json ← Optional configuration/data file
+
+⚡ Future Enhancements
+
+- Add more celestial objects with *dynamic content* loading
+
+- Implement *night mode* and interactive animations
+
+- Include a mini *quiz or facts section* for educational purposes
+
+## 🧑‍💻 About Me
+
+Hi, I’m **Shobbika**, a Computer Science Engineering student learning web development.  
+This project helped me practice frontend development, responsive design, and using GitHub.
